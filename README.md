@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Safiqur Rahman</h1>
-<h3 align="center">A machine learning enthusiast with 2 years of experience in the software testing.</h3>
+<h3 align="center">Hi! I'm Safiqur Rahman, a passionate tech enthusiast with a strong background in Python, machine learning, and deep learning. With two years of experience in software testing and recent, in-depth training in AI/ML, I've transitioned my focus to solving complex problems through data-driven solutions.
+
+I'm proficient in NLP, neural networks, and data science, and I enjoy building projects that showcase my skills, like my recent Fake News Classifier and YouTube Data Harvesting projects. My goal is to create impactful, real-world applications, and I'm constantly exploring new technologies and methodologies to expand my expertise.
+
+In addition to my technical skills, I bring a collaborative approach to each project and am dedicated to knowledge sharing and continuous learning. Feel free to check out my repositories and connect—I'm always open to discussions and collaboration!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiqurrahmang7&label=Profile%20views&color=0e75b6&style=flat" alt="safiqurrahmang7" /> </p>
 
