@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on [Project-Fake_news_classifier](https://github.com/safiqurrahmang7/Project-Fake_news_classifier)
+- 🔭 I’m currently working on [Project-Fake_news_classifier]([https://github.com/safiqurrahmang7/Project-Fake_news_classifier](https://github.com/safiqurrahmang7/Project-Fake_news_classifier/blob/main/README.md))
 - 🌱 I’m currently learning [Technology/Framework]
 - 👯 I’m looking to collaborate on [Open Source Project/Technology]
 - 🤔 I’m looking for help with [Specific Area/Project]
