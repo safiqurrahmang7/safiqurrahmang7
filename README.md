@@ -7,13 +7,9 @@
 I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skills.
 
 - 🔭 I’m currently working on [Project-Fake_news_classifier]([https://github.com/safiqurrahmang7/Project-Fake_news_classifier](https://github.com/safiqurrahmang7/Project-Fake_news_classifier/blob/main/README.md))
-- 🌱 I’m currently learning [Technology/Framework]
-- 👯 I’m looking to collaborate on [Open Source Project/Technology]
-- 🤔 I’m looking for help with [Specific Area/Project]
-- 💬 Ask me about [Technology/Project/Experience]
-- 📫 How to reach me: [Email Address]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [Something Interesting About You]
+- 🌱 I’m currently learning artificial Intelligence and Machine Learning
+- 📫 How to reach me: safiqurrahmang7@gmail.com
+- 😄 Pronouns: Them
 
 ## GitHub Stats
 
@@ -26,14 +22,12 @@ I'm a passionate developer with a keen interest in software development and open
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/safiqurrahmang7)
-- [Twitter](https://twitter.com/safiqurrahmang7)
-- [Website/Portfolio](URL)
 
 ## Projects
 
 Here are some of my notable projects:
 
-1. [Project Name](URL) - Brief Description
+1. [Project-Fake_news_classifier]([https://github.com/safiqurrahmang7/Project-Fake_news_classifier](https://github.com/safiqurrahmang7/Project-Fake_news_classifier/blob/main/README.md)) - The Fake News Classifier is an advanced deep learning project designed to identify and classify news articles as real or fake. Using the WELFake dataset of over 72,000 news articles, the project leverages natural language processing (NLP) techniques for data preprocessing, feature extraction, and sentiment analysis. The model employs LSTM architecture to analyze text patterns and classify misinformation accurately. The project aims to combat the spread of fake news in the media and entertainment domain by providing an automated solution with a high F1-score. Deliverables include a well-documented Jupyter notebook, test dataset predictions, and a robust classification system.
 2. [Project Name](URL) - Brief Description
 3. [Project Name](URL) - Brief Description
 
