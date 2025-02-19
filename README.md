@@ -6,8 +6,8 @@
 
 I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on [Project-Fake_news_classifier]([https://github.com/safiqurrahmang7/Project-Fake_news_classifier](https://github.com/safiqurrahmang7/Project-Fake_news_classifier/blob/main/README.md))
-- 🌱 I’m currently learning artificial Intelligence and Machine Learning
+- 🔭 I’m currently working on OrangeHRM Automation.
+- 🌱 I’m currently learning Python Selenium with Pytest framework
 - 📫 How to reach me: safiqurrahmang7@gmail.com
 - 😄 Pronouns: Him
 
