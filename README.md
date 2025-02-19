@@ -25,17 +25,18 @@ I'm a passionate developer with a keen interest in software development and open
 
 ## Projects
 
-Here are some of my notable projects:
+Here is my notable project:
 
-1. **[Project-Fake_news_classifier](https://github.com/safiqurrahmang7/Project-Fake_news_classifier/blob/main/README.md)** - The Fake News Classifier is an advanced deep learning project designed to identify and classify news articles as real or fake. Using the WELFake dataset of over 72,000 news articles, the project leverages natural language processing (NLP) techniques for data preprocessing, feature extraction, and sentiment analysis. The model employs LSTM architecture to analyze text patterns and classify misinformation accurately. The project aims to combat the spread of fake news in the media and entertainment domain by providing an automated solution with a high F1-score. Deliverables include a well-documented Jupyter notebook, test dataset predictions, and a robust classification system.
+1. **[OrangeHRM Test Automation Framework (Java + Selenium)](https://github.com/safiqurrahmang7/OrangeHRM-Test-Automation-Java-Selenium)** - This repository contains an automated test framework for OrangeHRM, built using Java, Selenium WebDriver, TestNG, and Cucumber. The framework follows a hybrid automation approach combining the Page Object Model (POM) and Behavior-Driven Development (BDD) principles.
 
 
-## Skills
-
-- **Programming Languages**: Python, SQL
-- **Frameworks**: TensorFlow, Keras
-- **Tools**: MongoDB Compass, MySQL, PostgreSQL, Streamlit, Jupyter Notebook, VS Code
-- **Other Skills**: Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Neural Network Development, Model Evaluation, and Version Control
+## 🚀 Features
+- **TestNG & Cucumber Integration** – Supports both traditional TestNG tests and BDD-style Cucumber scenarios.
+- **Page Object Model (POM)** – Ensures modular, reusable, and maintainable test scripts.
+- **Data-Driven Testing** – Uses JSON files for flexible test data management.
+- **Retry Mechanism** – Implements a `RetryAnalyzer` for handling test failures.
+- **Extensive Reporting** – Generates **Allure & Extent Reports** for detailed test execution insights.
+- **CI/CD Integration** – Compatible with **Jenkins** for automated execution.
 
 ## Education
 
