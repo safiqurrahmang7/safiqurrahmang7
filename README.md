@@ -44,7 +44,7 @@ Here is my notable project:
 
 ## Certifications
 
-- 
+- Selenium WebDriver with PYTHON from Scratch + Framework - [View Certifiacate](https://www.udemy.com/certificate/UC-f73a7acf-0e20-4daa-9957-85c10363177c/)
 
 ---
 
