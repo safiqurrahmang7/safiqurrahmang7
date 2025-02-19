@@ -21,7 +21,7 @@ I'm a passionate developer with a keen interest in software development and open
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/safiqurrahmang7)
+- [LinkedIn](www.linkedin.com/in/safiqurrahmansoftwareengineer)
 
 ## Projects
 
@@ -43,7 +43,7 @@ Here are some of my notable projects:
 
 ## Certifications
 
-- [AI/ML Course - GUVI](https://www.guvi.in/certificate?id=277mx17208Q0rJ1TC3)
+- 
 
 ---
 
