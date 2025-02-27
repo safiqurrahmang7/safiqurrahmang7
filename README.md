@@ -11,14 +11,6 @@ I'm a passionate developer with a keen interest in software development and open
 - 📫 How to reach me: safiqurrahmang7@gmail.com
 - 😄 Pronouns: Him
 
-## GitHub Stats
-
-![Safiqur's GitHub stats](https://github-readme-stats.vercel.app/api?username=safiqurrahmang7&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmang7&layout=compact&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/safiqurrahmansoftwareengineer)
@@ -45,6 +37,14 @@ Here is my notable project:
 ## Certifications
 
 - Selenium WebDriver with PYTHON from Scratch + Framework - [View Certifiacate](https://www.udemy.com/certificate/UC-f73a7acf-0e20-4daa-9957-85c10363177c/)
+
+## GitHub Stats
+
+![Safiqur's GitHub stats](https://github-readme-stats.vercel.app/api?username=safiqurrahmang7&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmang7&layout=compact&theme=radical)
 
 ---
 
